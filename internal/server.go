@@ -6,7 +6,7 @@ import (
 
 	"github.com/containous/traefik/v2/pkg/rules"
 	"github.com/sirupsen/logrus"
-	"github.com/thomseddon/traefik-forward-auth/internal/provider"
+	"github.com/pedromol/traefik-forward-auth/internal/provider"
 )
 
 // Server contains router and handler methods
